@@ -1,0 +1,19 @@
+# Compilados y binarios
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+# Archivos de respaldo y temporales
+*~
+*.swp
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno y configuración
+.env
+
+# Otros
+.vscode/
